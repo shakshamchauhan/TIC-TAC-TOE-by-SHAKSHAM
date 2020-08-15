@@ -1,0 +1,13 @@
+body {
+text-align: center;
+}
+
+.playButton {
+width: 30px;
+height: 30px;
+margin-bottom: 4px;
+}
+
+#resetButton {
+border-radius: 5px;
+}
